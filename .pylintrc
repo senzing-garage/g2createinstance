@@ -1,5 +1,6 @@
 [pylint]
 disable=
+    bad-option-value,
     bad-whitespace,
     broad-except,
     consider-using-f-string,
@@ -12,6 +13,7 @@ disable=
     too-many-locals,
     trailing-newlines,
     trailing-whitespace,
+    unspecified-encoding,
     unused-import,
 good-names=
     template-python
