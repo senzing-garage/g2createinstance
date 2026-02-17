@@ -2,20 +2,19 @@
   "version": "0.2",
   "language": "en",
   "words": [
+    "analysing",
     "CCLA",
     "CODEOWNER",
-    "ICLA",
-    "Senzing",
-    "analysing",
+    "cooldown",
     "createinstance",
     "esbenp",
+    "ICLA",
+    "kernelsam",
     "mypy",
     "pylint",
+    "Senzing",
     "shellcheck",
     "stackoverflow"
   ],
-  "ignorePaths": [
-    ".git/**",
-    ".mypy_cache/**"
-  ]
+  "ignorePaths": [".git/**", ".mypy_cache/**"]
 }
